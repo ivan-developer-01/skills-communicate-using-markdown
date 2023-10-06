@@ -19,3 +19,10 @@ for (let key in ivanDeveloper01) {
   console.log(`${key}: ${ivanDeveloper01[key]}`);
 }
 ```
+
+## Task list
+
+ - [x] Create a task list
+ - [x] Toggle all task list items to on
+ - [x] Think for a commit name
+ - [x] Commit changes
